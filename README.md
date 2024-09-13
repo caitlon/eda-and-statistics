@@ -1,7 +1,7 @@
 
 # EDA and Statistics
 
-Welcome to the "EDA and Statistics" repository! This repository is a comprehensive collection of Jupyter notebooks and Python scripts that focus on Exploratory Data Analysis (EDA) and statistical techniques. It serves as a valuable resource for anyone looking to deepen their understanding of data analysis, visualization, and statistical methods using Python.
+Welcome to the "EDA and Statistics" repository! This repository is a comprehensive collection of Jupyter notebooks and Python scripts that focus on Exploratory Data Analysis (EDA) and statistical techniques. It serves as a valuable resource for anyone looking to deepen their understanding of data analysis, visualization, and statistical methods using Python/R.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to the "EDA and Statistics" repository! This repository is a comprehensi
 
 ## Introduction
 
-Exploratory Data Analysis (EDA) and statistics are fundamental components of the data science process. EDA helps you understand your data, uncover patterns, detect anomalies, and form hypotheses, while statistical analysis provides the tools to test these hypotheses. This repository contains code and examples that demonstrate these concepts in a clear and practical manner.
+Exploratory Data Analysis (EDA) and statistics are fundamental components of the data science process. EDA helps you understand data, uncover patterns, detect anomalies, and form hypotheses, while statistical analysis provides the tools to test these hypotheses. This repository contains code and examples that demonstrate these concepts in a clear and practical manner.
 
 ## Folder Structure
 
@@ -29,8 +29,6 @@ The required Python libraries for each project are listed in their respective fo
 ## Usage
 
 You can explore the various EDA and statistical analysis techniques by running the Jupyter notebooks provided in this repository. Each notebook includes explanations and examples that will help you understand and apply the methods.
-
-Navigate through the `Exploratory Data Analysis` or `Statistics` folders and open the notebook of your choice.
 
 ## Contributing
 
