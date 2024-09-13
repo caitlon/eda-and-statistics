@@ -30,12 +30,6 @@ The required Python libraries for each project are listed in their respective fo
 
 You can explore the various EDA and statistical analysis techniques by running the Jupyter notebooks provided in this repository. Each notebook includes explanations and examples that will help you understand and apply the methods.
 
-To launch Jupyter Notebook, use the following command:
-
-```bash
-jupyter notebook
-```
-
 Navigate through the `Exploratory Data Analysis` or `Statistics` folders and open the notebook of your choice.
 
 ## Contributing
